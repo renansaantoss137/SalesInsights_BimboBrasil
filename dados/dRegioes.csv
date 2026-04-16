@@ -1,0 +1,9 @@
+id_regiao,nome_regiao,uf,macrorregiao
+REG-SP,São Paulo,SP,Sudeste
+REG-RJ,Rio de Janeiro,RJ,Sudeste
+REG-MG,Minas Gerais,MG,Sudeste
+REG-RS,Rio Grande do Sul,RS,Sul
+REG-PR,Paraná,PR,Sul
+REG-BA,Bahia,BA,Nordeste
+REG-PE,Pernambuco,PE,Nordeste
+REG-GO,Goiás,GO,Centro-Oeste
