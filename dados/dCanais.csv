@@ -1,6 +1,0 @@
-id_canal,nome_canal,tipo_canal,digital
-CH-01,Varejo - Grande Porte,Varejo,False
-CH-02,Varejo - Pequeno Porte,Varejo,False
-CH-03,Food Service,Food Service,False
-CH-04,E-commerce,E-commerce,True
-CH-05,Atacado,Atacado,False
